@@ -5,8 +5,8 @@ A Discord Webhook Spammer using libcurl.
 
 ## Usage
 
-    1) Compile the Programm
-    2) Edit cfg.h if you want to
+    1) Edit cfg.h if you want to
+    2) Compile the Programm
     3) Run the Programm
 
 
